@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ button:hover {
+     
+  background-color: greenyellow;
+  width: 70px;
+  height: 38px;
+
+
+ }
